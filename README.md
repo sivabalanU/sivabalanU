@@ -13,7 +13,10 @@ Hi there 👋 I'm Sivabalan U<br>Aspiring Software Engineer and Problem Solver<b
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sivabalanU&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 # 📊 LeetCode Stats:
-[![LeetCode Stats](https://leetcode-stats-api.herokuapp.com/SivabalanU)](https://leetcode.com/u/Sivabalan14/)
+![LeetCode Stats](https://leetcard.jacoblin.cool/Sivabalan14?theme=dark&font=Exo%202&ext=heatmap)
+
+# 📈 GitHub Activity Graph:
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sivabalanU&bg_color=000000&color=f0d528&line=14d220&point=44d228&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
